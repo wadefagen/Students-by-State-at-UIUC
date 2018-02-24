@@ -21,7 +21,7 @@ The first row in the CSV are column headers.  Every other row contains data.  Sa
 
 ### Values of `State`
 
-Data for each the 50 US states is present for every year in the dataset.  In addition to the 50 states, the following data is labeled as `State`s:
+Data for each of the 50 US states is present for every year in the dataset.  In addition to the 50 states, the following data is labeled as `State`s:
 
 - `District of Columbia`, data present for all years
 - `Guam`, data present in 2013-2017
