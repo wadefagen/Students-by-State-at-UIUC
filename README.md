@@ -1,4 +1,4 @@
-# Students by State at The University of Illinois
+# Students at The University of Illinois by their home state
 
 A collection of students' home state at the University of Illinois from the 1998 - 2017 in a clean CSV format.
 
