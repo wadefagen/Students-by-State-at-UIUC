@@ -27,7 +27,7 @@ Data for each of the 50 US states is present for every year in the dataset.  In 
 - `Guam`, data present in 2013-2017
 - `Military`, data present in 2000-2017
 - `Puerto Rico`, data present in 2013-2017
-- `Unknown`, data present in 2004-2017; this includes only unknown US residents, international students are split out
+- `Unknown`, data present in 2004-2017; this includes only unknown US residents, international students are split out into a different dataset
 - `Virgin Islands`, data present in 2017 only
 
 
